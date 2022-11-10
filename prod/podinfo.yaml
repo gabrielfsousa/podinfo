@@ -261,4 +261,4 @@ spec:
       port: 80
       protocol: TCP
       targetPort: http  
-      nodePort: 30002
+      nodePort: 30003
